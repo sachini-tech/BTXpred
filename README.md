@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **BTXpred**, a computational method developed for the prediction and classification of bacterial toxins using protein sequence information and machine learning techniques.
 
-Web Server: http://www.imtech.res.in/raghava/btxpred/
+Web Server:  https://webs.iiitd.edu.in/raghava/btxpred/index.html
 
 ---
 
