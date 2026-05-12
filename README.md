@@ -4,12 +4,14 @@ Welcome to the official repository for **BTXpred**, a computational method devel
 
 Web Server:  https://webs.iiitd.edu.in/raghava/btxpred/index.html
 
+ZENODO : https://doi.org/10.5281/zenodo.20096001
+
 ---
 
 ## Citation
 
 Saha, S., & Raghava, G. P. S. (2007).  
-**BTXpred: prediction of bacterial toxins.**  
+**: prediction of bacterial toxins.**  
 *In Silico Biology*, 7(4-5), 405–412.  
 PMID: 18391233
 
